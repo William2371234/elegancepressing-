@@ -1,0 +1,98 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(aquanettoyage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 280%;
+
+}
+nav{
+    background-color: rgba(52, 97, 89, 0.623);
+    width: 100%;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+}
+nav >a {
+    color: white;
+    margin: 0 50px;
+    text-decoration: none;
+    font-size: 1.2em ;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 4px 3px rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+}
+section{
+    padding: 40px;
+}
+img{
+    width: 100px;
+    border: 0Px ;
+    border-radius: 2%;
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    position: center;
+}
+video{
+    width: 700px;
+    border: 1Px ;
+    border-radius: 2%;
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    align-items: right;
+}
+figcaption{
+    border: 1px solid black;
+    padding: px;
+    width: 300px;
+
+}
+figcaption{
+    background-image: url(depositphotos_365661860-stock-photo-rack-clothes-dry-cleaning-closeup.webp);
+    color: black;
+    border: 2px;
+    border-radius: 1px 12px 1px 12px;
+    margin: 2px 1px;
+    font-size: 1em ;
+    border-style: solid;
+    font-style: italic;
+    text-align: center;
+}
+aside img{
+    height: 150px;
+    margin: 05px;
+
+}
+fieldset{
+    text-align: center;
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    border-radius: 1px 12px 1px 12px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+footer img{
+    width: 40px;
+    border: 0Px ; border-radius: 100%;
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    padding: 0px 10px;
+    margin: -7px 0px ;
+    position: right;
+}
+footer a{
+    margin: 0 10px;
+}
+aside p{
+    padding: 20px;
+    margin-left: 50px;
+}
